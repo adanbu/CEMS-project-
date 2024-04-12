@@ -22,7 +22,8 @@ CEMS is an application designed to facilitate efficient management of course exa
 [See How Our App Works](https://www.youtube.com/watch?v=2MxUqiQuB-c)
 
 
-#How to run
+<br>
+##How to run
 1. Via Mysql workbench create a schema called cems1 and import into it the contents of the file cems1.sql<br>
 2. Run the server jar app via cmd by running <java -jar "path to jar file"><br>
 3. Insert your DB username and password and click "Start server", if its not listening for connections check your input (and make sure mysql is open)<br>
